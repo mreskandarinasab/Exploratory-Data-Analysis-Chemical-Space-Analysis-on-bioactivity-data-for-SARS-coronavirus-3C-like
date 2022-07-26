@@ -1,2 +1,1 @@
-# Exploratory-Data-Analysis-Chemical-Space-Analysis-on-bioactivity-data-for-SARS-coronavirus-3C-like
-Exploratory Data Analysis (Chemical Space Analysis) on bioactivity data for SARS coronavirus 3C-like proteinase
+# Exploratory Data Analysis (Chemical Space Analysis) on bioactivity data for SARS coronavirus 3C-like proteinase
